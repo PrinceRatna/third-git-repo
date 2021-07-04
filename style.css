@@ -80,3 +80,15 @@ img{
     box-shadow:2px 2px 20px black ;
 
 }
+.div3:hover{
+
+    box-shadow:2px 2px 20px rgb(36, 240, 10) ;
+}
+
+.div4:hover{
+    box-shadow:2px 2px 20px rgb(36, 240, 10) ;
+
+}
+.link-button:hover{
+    color:white;
+}
